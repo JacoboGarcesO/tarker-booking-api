@@ -16,8 +16,4 @@
     <ProjectReference Include="..\Tarker.Booking.Domain\Tarker.Booking.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Database\Booking\Queries\" />
-  </ItemGroup>
-
 </Project>
