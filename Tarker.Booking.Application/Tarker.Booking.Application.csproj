@@ -17,7 +17,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Database\Booking\Commands\" />
     <Folder Include="Database\Booking\Queries\" />
   </ItemGroup>
 
