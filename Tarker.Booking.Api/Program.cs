@@ -14,6 +14,9 @@ builder
   .AddExternal(builder.Configuration)
   .AddPersistence(builder.Configuration);
 
+builder.Services.AddControllers();
+
 var app = builder.Build();
 
+app.MapControllers();
 app.Run();
